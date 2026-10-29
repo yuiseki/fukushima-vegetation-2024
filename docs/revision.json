@@ -1,0 +1,22 @@
+{
+ "repo": "yuiseki/fukushima-vegetation-2024",
+ "revision": "f0a5a13f00d58f994cc422db4bb39c228fd47876",
+ "sha256": {
+  "README.md": "5993bb67591efa1689eacfd64823d8fb5df542c596a24fb222066b39547116e1",
+  "LICENSE": "322cfc0d8b176c81a6eab4f9801ee7e296f99ba29e6784d574c0ea72f22c5520",
+  "provenance.yaml": "d212bc4412ca99db5daccfca99c559b0abe2247f271531989fba595c7b3c3389",
+  "parquet/vegetation_fukushima.parquet": "7d2b02e339d638707a1aea89455279cf3defddd111937915e7e8144cb5a2a513",
+  "raw/20261029/MANIFEST.json": "d41d3c7c86425b836322c69e6f95ded031a8fd9d3fe756025cb8d18b145525f3",
+  "raw/20261029/ckan_record.json": "a2a8016a2e29ff0cad5f22cfb2713e4a1d9ba1bac59eff23ae5b876f03bac891",
+  "docs/fukushima_profile.md": "e911409dd12b5c4db4e583ddfc1e2ab8e5faa1f0873667c97b33d2b0946edaef",
+  "docs/fukushima_profile.json": "2d7ec74928d6710e2787bccf7d439a5a2415493323b8e491204a8150ff1de8f5",
+  "docs/raw_profile.md": "39005c581a28d798c223e774a806ccffd69c8d4ef4ffc556866e4eeeed738045",
+  "docs/raw_profile.json": "5f5f121938efb0dce688742a102820cae4971aedbf6d62912ae05ea34768a370",
+  "docs/extract_log.json": "62c11f45ba4690210686ea35071e83ccf3d9ae5eb6e9105706aa1b47e0ea48e8",
+  "docs/legend_fukushima.tsv": "9635769b0d3ba071fe03bb5f529f22460dadb1b0dd783b5848d14fa024e8db4d",
+  "docs/legend_matches_fukushima.tsv": "49f6b6b263353853193def0642cba7fc83c0b8f86b2a2b6c83d808faccc44b7b",
+  "docs/legend_all_source_raw.tsv": "898b486c8b4feef3c6df1484acba236990f9b1c2b16de69e52e192ef9b471737",
+  "docs/legend_matches_source_raw.tsv": "d2bdcf69631086eeaceaf88c533664861372699b34933ffa5d1e82174153ecc9",
+  "docs/verify_local.json": "a6250a67cce14a341cf6da7e257bfb3500d8f65e284493c099d90abce5a6c391"
+ }
+}
