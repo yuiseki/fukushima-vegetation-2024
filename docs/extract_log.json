@@ -1,0 +1,35 @@
+{
+ "cutter": "KSJ N03 20260101 07 (Fukushima), 229 polygons dissolved",
+ "area_crs": 6677,
+ "files": {
+  "veg2024bk2a.gpkg": {
+   "read_in_bbox": 370377,
+   "intersect": 327774,
+   "wholly_inside": 326300,
+   "crossing": 1474,
+   "crossing_kept_after_clip": 1474,
+   "crossing_dropped_no_area": 0,
+   "kept": 327774
+  },
+  "veg2024bk3.gpkg": {
+   "read_in_bbox": 49106,
+   "intersect": 4207,
+   "wholly_inside": 3867,
+   "crossing": 340,
+   "crossing_kept_after_clip": 340,
+   "crossing_dropped_no_area": 0,
+   "kept": 4207
+  },
+  "veg2024bk4.gpkg": {
+   "read_in_bbox": 32699,
+   "intersect": 4066,
+   "wholly_inside": 3781,
+   "crossing": 285,
+   "crossing_kept_after_clip": 285,
+   "crossing_dropped_no_area": 0,
+   "kept": 4066
+  }
+ },
+ "rows": 336047,
+ "invalid_after": 0
+}
